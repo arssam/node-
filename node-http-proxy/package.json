@@ -1,0 +1,15 @@
+{
+  "name": "http-proxy",
+  "version": "1.0.0",
+  "description": "- 基于[http-proxy](https://github.com/nodejitsu/node-http-proxy)模块",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
